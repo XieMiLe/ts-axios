@@ -1,3 +1,3 @@
-// import { AxiosRequestConfig } from './type'
+import { AxiosRequestConfig } from './type'
 
 // export default function xhr(config) {}
